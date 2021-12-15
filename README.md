@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luciano, I'm from Argentina and I'm a university student in Lic. in Information Systemsr</h1>
 <h3 align="center">A passionate developer of new technologies who is always in constant learning</h3>
 
+<div align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
+
 - 🔭 I’m currently working on [30 Days of Code](https://github.com/Asabeneh/30-Days-Of-Python/)
 
 - 🌱 I’m currently learning **Python, Django, Flask, FastAPI, React**
