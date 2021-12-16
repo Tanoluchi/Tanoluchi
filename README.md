@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [30 Days of Code](https://github.com/Asabeneh/30-Days-Of-Python/)
 
-- 🌱 I’m currently learning **Python, Django, Flask, FastAPI, React**
+- 🌱 I’m currently learning **Python, Django, Vue, Graphl, FastAPI, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanoluchi](https://github.com/Tanoluchi)
 
