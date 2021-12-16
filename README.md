@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Vue, Graphl, FastAPI, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tanoluchi](https://github.com/Tanoluchi)
+- 👨‍💻 All of my projects are available at [https://github.com/Tanoluchi](https://github.com/Tanoluchi?tab=repositories)
 
 - 💬 Ask me about **Python, Django**
 
