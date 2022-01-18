@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 
-- 🔭 I’m currently working on [30 Days of Code](https://github.com/Asabeneh/30-Days-Of-Python/)
+- 🔭 I’m currently working on [100 Days of Python](https://github.com/Tanoluchi/100DaysOfPython)
 
 - 🌱 I’m currently learning **Python, Django, Vue, Graphl, FastAPI, React**
 
