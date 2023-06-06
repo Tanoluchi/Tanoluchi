@@ -3,17 +3,11 @@
 
 <div align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 
-- 🔭 I’m currently working on [100 Days of Python](https://github.com/Tanoluchi/100DaysOfPython)
-
-- 🌱 I’m currently learning **Python, Django, Vue, Graphl, FastAPI, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tanoluchi](https://github.com/Tanoluchi?tab=repositories)
-
-- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **lucianojuanignacio.valenzuela@gmail.com**
 
-- ⚡ Fun fact **I like to watch anime, watch movies, listen to music and play RPG games.**
+- ⚡ Fun fact **I like to watch movies, listen to music and play videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
